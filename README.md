@@ -1,4 +1,4 @@
-# ArduinoMiniPro_ArduinoUno
+# PROGRAMAR ARDUINO PRO MINI CON ARDUINO UNO
 Como programar nuestro Arduino Pro Mini Usando la tarjeta Arduino Uno.
 
 ## Breve Introducción
